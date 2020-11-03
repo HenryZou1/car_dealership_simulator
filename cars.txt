@@ -1,0 +1,27 @@
+Toyota     blue   SEDAN   GAS_ENGINE      9.5  500 2WD 25000
+Honda      red    SPORTS  GAS_ENGINE      9.2  450 2WD 30000
+Kia        white  MINIVAN GAS_ENGINE      9.7  550 2WD 20000
+BMW        black  SEDAN   GAS_ENGINE      9.6  600 AWD 55000
+Tesla      red    SEDAN   ELECTRIC_MOTOR  9.1  425 AWD 85000  30
+Chevy      red    MINIVAN GAS_ENGINE      9.25 475 2WD 40000
+ChevyVolt  green  SEDAN   ELECTRIC_MOTOR  8.9  375 AWD 37000  45
+Bentley    black  SEDAN   GAS_ENGINE      9.8  575 2WD 150000
+NissanLeaf green  SEDAN   ELECTRIC_MOTOR  8.8  325 AWD 32000  55
+Toyota2     blue   SEDAN   GAS_ENGINE      7.5  501 2WD 25010
+Honda2      red    SPORTS  GAS_ENGINE      7.2  451 2WD 30010
+Kia2        white  MINIVAN GAS_ENGINE      7.7  551 2WD 20010
+BMW2        black  SEDAN   GAS_ENGINE      7.6  601 AWD 55010
+Tesla2      red    SEDAN   ELECTRIC_MOTOR  7.1  421 AWD 85010  30
+Chevy2      red    MINIVAN GAS_ENGINE      7.25 471 2WD 40010
+ChevyVolt2  green  SEDAN   ELECTRIC_MOTOR  7.9  371 AWD 37010  45
+Bentley2    black  SEDAN   GAS_ENGINE      7.8  571 2WD 150010
+NissanLeaf2 green  SEDAN   ELECTRIC_MOTOR  7.8  321 AWD 32010  55
+Toyota3     blue   SEDAN   GAS_ENGINE      5.5  503 2WD 25020
+Honda3      red    SPORTS  GAS_ENGINE      5.2  453 2WD 30020
+Kia3        white  MINIVAN GAS_ENGINE      5.7  553 2WD 20020
+BMW3        black  SEDAN   GAS_ENGINE      5.6  603 AWD 55020
+Tesla3      red    SEDAN   ELECTRIC_MOTOR  5.1  423 AWD 85020  30
+Chevy3      red    MINIVAN GAS_ENGINE      5.25 473 2WD 40020
+ChevyVolt3  green  SEDAN   ELECTRIC_MOTOR  5.9  373 AWD 37020  45
+Bentley3    black  SEDAN   GAS_ENGINE      5.8  573 2WD 150200
+NissanLeaf3 green  SEDAN   ELECTRIC_MOTOR  5.8  323 AWD 32020  55
